@@ -1,0 +1,5 @@
+fastmcp
+serpapi
+google-search-results
+googlesearch-python
+pycountry
